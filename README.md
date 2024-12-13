@@ -7,9 +7,9 @@ ciò ci ha portato all'idea di andare a studiare come è cambiato nel tempo il n
 di nascite e quali possono essere state le cause di tale diminuzione.
 
 ## Dataset utilizzati e fonti di riferimento:
-- Fertilità,
-- HDI (Human Development Index),
-- GII (Gender Inequality Index).
+- Fertilità (https://www.un.org/en)
+- HDI (Human Development Index) (https://hdr.undp.org/)
+- GII (Gender Inequality Index) (https://hdr.undp.org/)
 
 ## Credits
 
